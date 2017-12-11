@@ -1,0 +1,13 @@
+E:\PrintScreen\PrintScreen\obj\Debug\PrintScreen.Form1.resources
+E:\PrintScreen\PrintScreen\obj\Debug\PrintScreen.Properties.Resources.resources
+E:\PrintScreen\PrintScreen\obj\Debug\PrintScreen.ToastForm.resources
+E:\PrintScreen\PrintScreen\obj\Debug\PrintScreen.csproj.GenerateResource.Cache
+E:\PrintScreen\PrintScreen\bin\Debug\PrintScreenApp.exe.config
+E:\PrintScreen\PrintScreen\bin\Debug\PrintScreenApp.exe
+E:\PrintScreen\PrintScreen\bin\Debug\PrintScreenApp.pdb
+E:\PrintScreen\PrintScreen\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+E:\PrintScreen\PrintScreen\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+E:\PrintScreen\PrintScreen\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
+E:\PrintScreen\PrintScreen\obj\Debug\PrintScreenApp.exe
+E:\PrintScreen\PrintScreen\obj\Debug\PrintScreenApp.pdb
+E:\PrintScreen\PrintScreen\obj\Debug\PrintScreen.csprojResolveAssemblyReference.cache
